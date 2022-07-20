@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title> UNES - Página principal </title>
+        <meta charset="utf-8">
+    </head>
+    <body background="arquivos/fundo.png">
+
+
+
+        <table border="0" width="900" align="center">
+            <tr>
+                <td height="89"><img src="arquivos/logo.png"></td>
+                <td align="right">
+                    <a href="">Home |</a>
+                    <a href="quem-somos.html">Quem somos |</a>
+                    <a href="contato.html">Contato </a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><img src="arquivos/capa.png"></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <h2> Sobre a universidade</h2>
+                    <p>
+                        Lorem <strong>ipsum dolor</strong> sit <em>amet,</em> consectetur adipiscing elit. Donec sit amet vestibulum mi, a euismod neque. Praesent vel nisi facilisis, imperdiet ligula id, hendrerit magna. Ut accumsan tristique justo at ultrices. Ut gravida venenatis nisl, et suscipit massa consectetur quis. Mauris egestas faucibus nulla, at ultrices arcu sodales et. Proin varius mauris velit, ac rhoncus metus ultricies at. Nullam bibendum tempor augue, volutpat lobortis odio dapibus eget. Duis dignissim purus vel massa interdum, venenatis commodo enim molestie. Aliquam efficitur sagittis justo, sed luctus elit sollicitudin et. Etiam efficitur dolor tempus neque venenatis, vitae ullamcorper tortor laoreet. Vestibulum ornare mattis est a condimentum. Aliquam vel consequat erat, nec laoreet risus. Donec id lacinia nunc, quis commodo erat. Vivamus dictum dolor dolor. Aliquam id est vestibulum, feugiat augue et, interdum velit. Etiam sagittis vitae odio a dapibus.
+                    </p>
+                    <p>
+                        Lorem <strong>ipsum dolor</strong> sit <em>amet,</em> consectetur adipiscing elit. Donec sit amet vestibulum mi, a euismod neque. Praesent vel nisi facilisis, imperdiet ligula id, hendrerit magna. Ut accumsan tristique justo at ultrices. Ut gravida venenatis nisl, et suscipit massa consectetur quis. Mauris egestas faucibus nulla, at ultrices arcu sodales et. Proin varius mauris velit, ac rhoncus metus ultricies at. Nullam bibendum tempor augue, volutpat lobortis odio dapibus eget. Duis dignissim purus vel massa interdum, venenatis commodo enim molestie. Aliquam efficitur sagittis justo, sed luctus elit sollicitudin et. Etiam efficitur dolor tempus neque venenatis, vitae ullamcorper tortor laoreet. Vestibulum ornare mattis est a condimentum. Aliquam vel consequat erat, nec laoreet risus. Donec id lacinia nunc, quis commodo erat. Vivamus dictum dolor dolor. Aliquam id est vestibulum, feugiat augue et, interdum velit. Etiam sagittis vitae odio a dapibus.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <h4>Todos os direitos reservados</h4>
+                </td>
+            </tr>
+
+
+        </table>
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
